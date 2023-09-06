@@ -16,3 +16,4 @@ I like banglore due to several reasons. Bangalore is known for its **pleasant cl
 * Ragi Mudde
 * Chaat
 
+Click [here](MyStats.md) to open MyStats.md File.

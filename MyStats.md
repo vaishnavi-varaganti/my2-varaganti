@@ -1,0 +1,5 @@
+# Vaishnavi Varaganti
+
+I find immense joy and fulfillment in the simple pleasures of life. I love to channel my creativity into making art and craft, turning everyday materials into beautiful creations that reflect my imagination. Cooking is another passion that allows me to express myself through flavors and culinary experiments, turning raw ingredients into delectable dishes that bring people together. But what truly warms my heart is the precious time spent hanging out with my father, creating lasting memories and deepening our bond. And when wanderlust strikes, I embark on adventures to explore new places, where I discover the rich tapestry of cultures, savor unique cuisines, and collect experiences that enrich my soul. These passions define me, adding vibrant colors to the canvas of my life.
+
+Click [here](https://github.com/vaishnavi-varaganti/my2-varaganti/blob/main/MyImage.jpg) to view my Image
