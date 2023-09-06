@@ -28,3 +28,9 @@ Sports play a significant role in our lives, offering a myriad of physical, ment
 | Swimming | Low-impact full-body workout, suitable for all ages. | 3-5 hours |
 | Basketball | Great for cardiovascular fitness. | 5-7 hours |
 | Yoga | Stress relief and flexibility enhancement. | 2-4 hours |
+
+---
+### Quotes by scientists that I like
+> The important thing is to not stop questioning. Curiosity has its own reason for existence. - *_Albert Einstein_*
+
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world. - *_Louis Pasteur_*
