@@ -34,3 +34,22 @@ Sports play a significant role in our lives, offering a myriad of physical, ment
 > The important thing is to not stop questioning. Curiosity has its own reason for existence. - *_Albert Einstein_*
 
 > Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world. - *_Louis Pasteur_*
+
+---
+### Code Fencing
+> How do you post data to an iframe?
+<https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe> 
+The above link is the Quick Link which provides the answer for the question.
+
+#### Code Snippet to post data to an iframe
+```
+<form action="iframe.php" target="my-iframe" method="post">
+    <label for="text">Some text:</label>
+    <input type="text" name="text" id="text">
+    <input type="submit" value="post">	
+</form>
+<iframe name="my-iframe" src="iframe.php"></iframe>
+``` 
+
+<https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
+The above link is the Quick Link which provides the code snippet.
