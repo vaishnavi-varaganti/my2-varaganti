@@ -11,3 +11,8 @@ I like banglore due to several reasons. Bangalore is known for its **pleasant cl
 2. Visit Lalbagh Botanical Garden
 3. Enjoy Street Food
 
+**Food Items that you can enjoy at Banglore**
+* Bisi Bele Bath
+* Ragi Mudde
+* Chaat
+
