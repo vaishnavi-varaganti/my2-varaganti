@@ -17,3 +17,14 @@ I like banglore due to several reasons. Bangalore is known for its **pleasant cl
 * Chaat
 
 Click [here](MyStats.md) to open MyStats.md File.
+
+---
+### Sports I would like to recommend
+Sports play a significant role in our lives, offering a myriad of physical, mental, and social benefits. Engaging in sports not only fosters physical fitness and enhances endurance but also promotes mental well-being by reducing stress and boosting self-confidence. 
+
+| Name of the Sport | Reason for recommendation | Average weekly hours |
+| --- | --- | --- |
+| Tennis | Great for cardiovascular health and agility. | 4-6 hours |
+| Swimming | Low-impact full-body workout, suitable for all ages. | 3-5 hours |
+| Basketball | Great for cardiovascular fitness. | 5-7 hours |
+| Yoga | Stress relief and flexibility enhancement. | 2-4 hours |
